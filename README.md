@@ -23,5 +23,5 @@ I'm a passionate developer and tech enthusiast who loves building bots, websites
 
 ## 📫 Contact Me
 - Discord: [uwu.oz](#)
-- Telegram: [@AbdullahArefin169](https://t.me/AbdullahArefin169)
+- Discord Server : [DEV HUB](#)
 - Email: contact.abdullah.hq@gmail.com
