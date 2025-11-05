@@ -11,17 +11,17 @@ I'm a passionate developer and tech enthusiast who loves building bots, websites
 
 ## 📈 GitHub Stats
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahArefin-u&show_icons=true&theme=radical)
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahArefin-r&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahArefin-u&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahArefin-r&layout=compact&theme=radical)
 
 ## 🚀 Projects
 - 🔗 [My Portfolio Website](#)
 - 🤖 [Music Player Website](https://ggmusic.vercel.app/)
-- 🌍 [Free Fire Like Site](https://x1litelikeapp.vercel.app)
+- 🌍 [Free Fire Emote BoT](https://x1litelikeapp.vercel.app)
 - 🎮 [Gaming Site - LAZY69](#)
 
 ## 📫 Contact Me
-- Discord: [itz.joy](#)
+- Discord: [uwu.oz](#)
 - Telegram: [@AbdullahArefin169](https://t.me/AbdullahArefin169)
 - Email: contact.abdullah.hq@gmail.com
