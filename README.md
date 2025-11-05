@@ -5,9 +5,9 @@ I'm a passionate developer and tech enthusiast who loves building bots, websites
 ## 🔧 Skills
 - 💻 Languages: Python, JavaScript, HTML, CSS, C#
 - 🤖 Bots: Discord Bots, Telegram Bots
-- 🌐 Web Dev: React, Node.js, Express
+- 🌐 Web Dev: HTML & CSS [Backend: Python, JavaScript]
 - ⚙️ Tools: Git, Linux, VSCode
-- 📦 Backend: MongoDB, MySQL, REST APIs
+- 📦 Backend: MySQL, REST APIs
 
 ## 📈 GitHub Stats
 
